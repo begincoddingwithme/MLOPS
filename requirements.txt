@@ -21,7 +21,6 @@ flatbuffers==24.3.25
 fonttools==4.54.1
 gast==0.6.0
 gitdb==4.0.11
-git-lfs
 GitPython==3.1.43
 google-pasta==0.2.0
 grpcio==1.68.0
@@ -96,10 +95,9 @@ stack-data==0.6.3
 streamlit==1.40.1
 tangled-up-in-unicode==0.2.0
 tenacity==9.0.0
-tensorboard==2.18.0
+tensorboard==2.9.1
 tensorboard-data-server==0.7.2
-tensorflow==2.18.0
-tensorflow_intel==2.18.0
+tensorflow==2.9.1
 termcolor==2.5.0
 threadpoolctl==3.5.0
 toml==0.10.2
