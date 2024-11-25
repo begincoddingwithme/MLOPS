@@ -8,7 +8,8 @@ scikit-learn==1.5.2
 streamlit==1.40.1
 requests==2.32.3
 pillow==10.4.0
-joblib==1.1.1
+joblib>=1.1.1
 h5py==3.12.1
 tqdm==4.66.5
 protobuf==5.28.3
+pydantic>=2.7.0
